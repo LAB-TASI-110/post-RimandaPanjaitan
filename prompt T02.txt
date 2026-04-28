@@ -1,0 +1,54 @@
+aku mau buat program yang bisa menentukan total stok hanya untuk kategori barang yang diminta aja yaa dimana nanti inputnya menggunakan:
+jumlah total data (N)
+Deret stok (s1,s2, ... ,sN)
+kode kategori barang
+
+dimana data stok barang nya didimpan dalam sebuah rak gudang yang disusun rapi, pola penyimpanannya itu 
+22 pcs - dasi SD
+85 pcs - Gula
+5 pcs - rok pramuka
+120 pcs - minyak
+
+gunakan penerapan oop dalam membuat program ini kamu bebas berkreasi menggunakan apapun namun harus tetap mengikuti ketentuan yang aku berikan, selain itu aku menggunakan bahasa pemprograman Java jdk 21 dengan menggunakan Vs code aku ingin membuatnya dia dua file yaitu model2.java dan driver2.java kamu harus berkreasi agar kamu dapat menghasilkan programnya tanpada error debug atau apapun dan bekerja lah sebagai seorang programmer junior yang baru terjun ke dunia java, berikan saya dalam tampilan clean code tanpa error maupun debug
+
+
+[{
+	"resource": "/C:/Users/ASUS/OneDrive/Documents/GitHub/post-RimandaPanjaitan/src/driver/Driver2.java",
+	"owner": "_generated_diagnostic_collection_name_#4",
+	"code": "16777218",
+	"severity": 8,
+	"message": "Model2 cannot be resolved to a type",
+	"source": "Java",
+	"startLineNumber": 14,
+	"startColumn": 9,
+	"endLineNumber": 14,
+	"endColumn": 15,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/C:/Users/ASUS/OneDrive/Documents/GitHub/post-RimandaPanjaitan/src/driver/Driver2.java",
+	"owner": "_generated_diagnostic_collection_name_#4",
+	"code": "16777218",
+	"severity": 8,
+	"message": "Model2 cannot be resolved to a type",
+	"source": "Java",
+	"startLineNumber": 14,
+	"startColumn": 31,
+	"endLineNumber": 14,
+	"endColumn": 37,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/C:/Users/ASUS/OneDrive/Documents/GitHub/post-RimandaPanjaitan/src/driver/Driver2.java",
+	"owner": "_generated_diagnostic_collection_name_#4",
+	"code": "16777218",
+	"severity": 8,
+	"message": "Model2 cannot be resolved to a type",
+	"source": "Java",
+	"startLineNumber": 27,
+	"startColumn": 29,
+	"endLineNumber": 27,
+	"endColumn": 35,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+}]

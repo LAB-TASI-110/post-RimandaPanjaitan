@@ -1,0 +1,12 @@
+aku pengen kamu membuat sebuah sistem yang mendukung operasional kafeteria IT Del, dimana kamu bekerja sebagai seorang programing junior yang baru saja terjun kedunia java dan lingkup kerja ku menggunakan vs code dengan ada dua file yaitu driver3.java dan model3.java, aku ingin kamu dalam membuat program ini dengan menerapkan oop bebas mau pakai saja. selain itu aku ingin kamu memberikan code tanpa error dan tanpa debug dan berikan clean code. untuk pengerjaannya aku inginmembuat sistem input data online dimana petugas tidak perlu mencatat dan menghitung total pesanan secara manual namun sudah dapat secara otomatis, sebagai contoh budi memesan kentang goreng seharga 15000, burger 15000, kopi 8000, bakwan 10000 dan nugget 15000, maka nantinya petugas hanya perlu menginput kentang goreng, burger, kopi, bakwan serta nugget saja. lalu expected outputnya adalah Cafeteria IT Del lalu dibawahnya pesanan disebelah kiri dan harga disebalah kanan lalu dibawahnya satu baris ada total harga nya tolong buat rapi dan sejajar jangan ada mecong -mencong. 
+
+untuk data yang bisa kamu gunakan adalah :
+Bakwan                  10000
+Burger                    10000
+Kentang Goreng    15000
+Nugget                  15000
+Sosis                      15000
+Roti Isi Ayam         15000
+Kopi                         8000
+
+oh iya aku lupa bilang untuk menghentikan inputan aku mau pakai "---" yaa, thank you

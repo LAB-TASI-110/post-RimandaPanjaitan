@@ -1,0 +1,11 @@
+saya ingin membuat sebuah program pengiriman barang otomatis dimana pertugas hanya perlu untuk memasukkan kode kota tujuan serta berat paket milik pelanggan dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket pelanggan.
+ saya ingin kamu menggunakan bahasa pemrograman java jdk 21 dengan menggunakan penerapan oop (object oriented programing) gunakan apa saja yang ada didalam oop untuk membantu kamu mengerjakan tugas ini baik itu data types, nested, integer dan sebagainya. 
+pada sistem ini saya ingin menggunakan kode kota ini berfungsi untuk di bagian input yaitu : 
+Medan (MDN), 
+Balige (BLG), 
+Jakarta(JKT), 
+Surabaya(SBY). 
+untuk harga pengiriman dan keterangannya dimana Medan dengan keterangan didalam pula dengan ongkos kirim 8000/kg, lalau Balige dengan  keterangan dalam pulau dengan harga 5000/kg, setelah itu ada jakarta 12000/kg dengan keterangan luar pulau, lalu yang terakhir surabaya dengan harga 13000/kg dengan keterangan luar pulau. 
+untuk menghitung harga aku ingin perhitungan otomatis yaa selain itu dalam perhitungan otomatisnya nanti ada promo berlaku dimana untuk total berat pengiriman lebih dari 10kh akan mendapatkan diskon ongkos kirim sebesar 10% serta pengirimana ke kota diluar pulau akan mendapatkan asuransi gratis. 
+expected outputnya aku mau ada struk pembayaran yang terdiri dari : kota tujuan, berat paket butet, berat paket ucok, total berat, total ongkos kirim, informasi promo yang diperoleh. 
+nahh untuk studi kasus saat ini dimana Del Express selaku nama dari sistem pengiriman aku ini udah ada dua pelanggan yang bernama butet dan ucok yang mana saat petugas del express menimbang ada perbedaan ukuran dus yang mereka gunakan jadi sistem ini nantinya akan menghitung seluruh biaya pengiriman termasuk berat paket milik ucok yaa. 
